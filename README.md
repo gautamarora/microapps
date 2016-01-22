@@ -16,7 +16,7 @@ The architecture is inspired from  [See-Eat-Sleep](https://github.com/thlorenz/s
 
 1. Clone this repo
 
-       git clone git@github.com:gautamarora/blog.git
+        git clone git@github.com:gautamarora/blog.git
 
 1. Install dependencies
 
