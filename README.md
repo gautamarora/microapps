@@ -2,7 +2,7 @@
 
 This blog application is a megaapp that is built using a microapp architecture. Each page (post, photo, profile) is a microapp that uses expressjs, browserify, handlebars & sass. These microapps share other microapps like header. Each microapp is published as a npm module at [npmjs.com](https://www.npmjs.com/~gautamarora) from where it is installed into the mega app.
 
-The architecture is inspired from  [See-Eat-Sleep](https://github.com/thlorenz/see-eat-sleep) and [Condé Nast Traveler](www.cntraveler.com).
+The architecture is inspired from  [See-Eat-Sleep](https://github.com/thlorenz/see-eat-sleep) and [Condé Nast Traveler](http://www.cntraveler.com).
 
 ### Micro Apps used:
 1. [core](https://github.com/gautamarora/core)
