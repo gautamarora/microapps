@@ -20,6 +20,7 @@ The architecture is inspired from  [See-Eat-Sleep](https://github.com/thlorenz/s
 
 1. Install dependencies
 
+        cd blog
         npm install
 
 1. Run the app
