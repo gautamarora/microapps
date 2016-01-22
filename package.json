@@ -1,6 +1,6 @@
 {
   "name": "@gautamarora/blog",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "megaapp - blog",
   "main": "server.js",
   "browser": "./client/index.js",
