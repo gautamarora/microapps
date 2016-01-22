@@ -13,8 +13,8 @@
   "author": "Gautam Arora",
   "license": "ISC",
   "dependencies": {
-    "@gautamarora/core": "0.0.1",
-    "@gautamarora/header": "0.0.1",
+    "@gautamarora/core": "0.0.2",
+    "@gautamarora/header": "0.0.2",
     "@gautamarora/homepage": "0.0.1",
     "@gautamarora/photo": "0.0.1",
     "@gautamarora/post": "0.0.1",
