@@ -6,11 +6,11 @@ The architecture is inspired from  [See-Eat-Sleep](https://github.com/thlorenz/s
 
 ### Micro Apps used:
 1. [core](https://github.com/gautamarora/core)
-1. [header](https://github.com/gautamarora/core)
-1. [homepage](https://github.com/gautamarora/core)
-1. [post](https://github.com/gautamarora/core)
-1. [photo](https://github.com/gautamarora/core)
-1. [article](https://github.com/gautamarora/core)
+1. [header](https://github.com/gautamarora/header)
+1. [homepage](https://github.com/gautamarora/homepage)
+1. [post](https://github.com/gautamarora/post)
+1. [photo](https://github.com/gautamarora/photo)
+1. [profile](https://github.com/gautamarora/profile)
 
 ## How to run:
 
