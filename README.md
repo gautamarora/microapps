@@ -15,11 +15,17 @@ The architecture is inspired from  [See-Eat-Sleep](https://github.com/thlorenz/s
 ## How to run:
 
 1. Clone this repo
+
        git clone git@github.com:gautamarora/blog.git
+
 1. Install dependencies
+
         npm install
-1. Run
+
+1. Run the app
+
         npm start
+
   Now go to [localhost:3000](http://localhost:3000) to see the sample blog app
 
 ## Live Examples
