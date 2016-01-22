@@ -1,0 +1,29 @@
+{
+  "name": "@gautamarora/blog",
+  "version": "0.0.1",
+  "description": "megaapp - blog",
+  "main": "server.js",
+  "browser": "./client/index.js",
+  "main.scss": "./styles/index.scss",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start-prod": "sudo NODE_ENV=production PORT=80 forever server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautam Arora",
+  "license": "ISC",
+  "dependencies": {
+    "@gautamarora/core": "0.0.1",
+    "@gautamarora/header": "0.0.1",
+    "@gautamarora/homepage": "0.0.1",
+    "@gautamarora/photo": "0.0.1",
+    "@gautamarora/post": "0.0.1",
+    "@gautamarora/profile": "0.0.1",
+    "browserify": "^12.0.2",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "forever": "^0.15.1",
+    "nodemon": "^1.8.1"
+  }
+}
