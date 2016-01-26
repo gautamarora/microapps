@@ -52,16 +52,16 @@ For development, its easiest to softlink all the dependencies to local folders f
         
 1. Now go back to the blog repo and softlink it to the locally cloned repos:
 
-      npm link core
-      npm link header
-      npm link homepage
-      npm link post
-      npm link photo
-      npm link profile
+        npm link core
+        npm link header
+        npm link homepage
+        npm link post
+        npm link photo
+        npm link profile
       
 1. Now you can make edits to any microapp locally, and the changes will be reflected when you run the blog app:
 
-      npm start
+        npm start
 
 ## Live Examples
 [www.gautamarora.com](http://www.gautamarora.com)
