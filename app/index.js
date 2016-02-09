@@ -4,7 +4,6 @@ var homepage = require('@gautamarora/homepage');
 var post = require('@gautamarora/post');
 var photo = require('@gautamarora/photo');
 var profile = require('@gautamarora/profile');
-
 var self = require('./self');
 
 exports.initBrowserify = core.initBrowserify;

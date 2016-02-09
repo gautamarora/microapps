@@ -2,8 +2,8 @@
   "name": "@gautamarora/blog",
   "version": "0.0.3",
   "description": "megaapp - blog",
-  "main": "server.js",
-  "browser": "./client/index.js",
+  "main": "./app/index.js",
+  "browser": "./client/self/index.js",
   "main.scss": "./styles/index.scss",
   "scripts": {
     "start": "nodemon server.js",
